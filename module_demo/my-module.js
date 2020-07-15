@@ -1,0 +1,1 @@
+exports.myText = "Hello Tejashree in node module";
